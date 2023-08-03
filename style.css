@@ -284,70 +284,9 @@ nav .nav-bar .logo a {
     }
 }
 
-/* cards section styles */
 
 
 
-/* Your existing CSS code goes here */
-
-/* body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-} */
-
-/* .navbar {
-    background-color: #2d2e32;
-    color: #fff;
-    padding: 10px;
-} */
-/* 
-.header-section1 {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 20px;
-}
-
-.left-section1 {
-    width: 50%;
-    padding-right: 20px;
-}
-
-.left-section1 h2 {
-    font-size: 24px;
-    margin-bottom: 10px;
-}
-
-.left-section1 h3 {
-    font-size: 20px;
-    margin-bottom: 10px;
-}
-
-.left-section1 p {
-    font-size: 16px;
-    line-height: 1.5;
-    margin-bottom: 20px;
-}
-
-.cv-button a {
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 18px;
-    font-weight: bold;
-    text-decoration: none;
-    background-color: #ffaf29;
-    color: #25262a;
-    border-radius: 5px;
-}
-
-.right-section1 {
-    width: 50%;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
-*/
 .card {
     width: 45%;
     padding: 0px;
@@ -380,6 +319,7 @@ nav .nav-bar .logo a {
     flex: 1 1 50%;
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .card {
